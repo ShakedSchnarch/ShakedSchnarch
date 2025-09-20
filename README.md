@@ -1,85 +1,81 @@
 # 🚀 Shaked Schnarch – Project Portfolio
 
 Welcome to my project portfolio!  
-Here, you'll find a curated selection of my academic, personal, and collaborative projects, showcasing my passion for innovation, problem-solving, and impactful software development.
+Here you'll find a curated selection of my academic, personal, and collaborative projects, reflecting my passion for innovation, problem-solving, and impactful software development.
 
 ---
 
 ### 🧠 About Me
 
-I'm a **Computer Science and Economics student at Tel Aviv University**, driven by the intersection of technology, creativity, and real-world applications. My work reflects a commitment to building tools that empower users and solve meaningful problems.
+I'm a **Computer Science and Economics student at Tel Aviv University**, driven by combining software engineering with analytical thinking. My work reflects a commitment to building scalable systems and solving meaningful problems across domains such as AI, fintech, and infrastructure.  
 
-* 🧩 **Interests**: AI, developer tools, education tech, and systems programming
-* 🛠️ **Languages**: Python, Java, C, R, MIPS Assembly
-* 🧰 **Tools**: Docker, GitHub Actions, VSCode, Flask, React
-* 📊 **Data Skills**: Econometrics, RMarkdown, LaTeX, data visualization
-* 🤖 **Exploring**: robotics (ROS2), multi-agent systems, AI coordination protocols
-* 🌱 **Currently Learning**: scalable backend design & advanced C memory management
+Recipient of the **Schulich Leaders Scholarship**, awarded for academic excellence and leadership potential.  
+
+- 🧩 **Interests**: AI, fintech, systems programming, developer tools  
+- 🛠️ **Languages**: Python, Java, C, R, MIPS Assembly  
+- 🧰 **Tools**: Docker, GitHub Actions, VSCode, Flask, React  
+- 📊 **Data Skills**: Econometrics, RMarkdown, LaTeX, data visualization  
+- 🤖 **Exploring**: robotics (ROS2), multi-agent systems, AI coordination protocols  
+- 🌱 **Currently Learning**: scalable backend design & advanced C memory management  
 
 ---
 
 ### 🎯 Goals
 
-* Build meaningful open-source tools that improve education and productivity
-* Deepen understanding in low-level systems and AI infrastructure
-* Collaborate on research-based or product-oriented software projects
-* Contribute to communities in open source and AI x education
+- Build reliable and scalable software tools with real-world impact  
+- Deepen expertise in low-level systems and financial technologies  
+- Contribute to research-based or product-oriented software projects  
+- Take part in open source and developer communities  
 
 ---
 
 ### 🔗 Quick Links
 
-* 📄 [LinkedIn](https://www.linkedin.com/in/shaked-schnarch-4b2285294/) 
-* 💡 [GitHub Profile](https://github.com/ShakedSchnarch)
-* 📬 [Email](mailto:shakedsid@gmail.com.com)
+- 📄 [LinkedIn](https://www.linkedin.com/in/shaked-schnarch-4b2285294/)  
+- 💡 [GitHub Profile](https://github.com/ShakedSchnarch)  
+- 📬 [Email](mailto:shakedsid@gmail.com)  
 
 ---
 
 ## 🎓 Academic Projects
 
-### 📘 [DS-Project--Yair-Shaked](https://github.com/ShakedSchnarch/DS-Project--Yair-Shaked)
-> Advanced Data Structures in Java, including AVL tree implementation and massive performance testing.
-- 💡 Topics: AVL, Rotation Analysis, Test Automation
-- 🛠️ Java, JUnit, Pytest
+### 🧮 [OPCAL – Neuroinformatics Tool](https://github.com/ShakedSchnarch/OPCAL---MLT)
+> Built a data analysis and labeling tool integrated into a deep-learning pipeline for brain-mapping research in a neuroscience lab.  
+- 🔬 Research context: part of a groundbreaking study currently under publication  
+- 🛠️ Python, Streamlit, NumPy, Pandas
+<img width="1275" height="656" alt="image" src="https://github.com/user-attachments/assets/aea14002-c6b0-4caa-96d8-d404b541a224" />
 
-### 💾 [SP-HW1](https://github.com/ShakedSchnarch/SP-HW1-32295)
-> Homework for Systems Programming course. Worked with memory-level C, Makefiles, and system calls.
-- 🔧 Tools: `gcc`, MIPS Assembly, Linux
 
-### ⚙️ [software1course2025a/hw-3-Shaked](https://github.com/software1course2025a/hw-3-Shaked)
-> Java-based Object-Oriented Programming exercises with focus on recursion, testing, and encapsulation.
+### 🔬 [Software Project – SymNMF & KMeans](https://github.com/ShakedSchnarch/Software-Project--Rotem-Shaked)
+> Implemented C libraries for advanced clustering algorithms (SymNMF, KMeans), with Python bindings and evaluation framework.  
+- 📊 Performance analysis and visualization of model results  
+- 🛠️ C, Python, NumPy, Matplotlib, Make, Docker
+<img width="1500" height="600" alt="image" src="https://github.com/user-attachments/assets/c043e114-c39d-4066-9865-693ead54a817" />
+
+
+### 📘 [AVL & Heaps Data Structures](https://github.com/ShakedSchnarch/DS-Project--Yair-Shaked)
+> Implemented balanced tree and heap operations, with runtime measurement and performance analysis.  
+- 💡 Topics: AVL rotations, Heap operations, Test Automation  
+- 🛠️ Java, JUnit, Pytest  
 
 ---
 
 ## 🤖 Personal & Hackathon Projects
 
-### 📚 [CoTeacher Prototype](https://github.com/OfekWeinberger/coTeacher-prototype)
-> Real-time quiz generator that supports university lectures using OpenAI API and WebSocket integration.
-- 🛠️ Python, Flask, Socket.IO, OpenAI API
-- 🧠 Hackademia 2025 Finalist
+### 🎓 [Ac.tive – Hackademia Project](https://github.com/OfekWeinberger/coTeacher-prototype.git)
+> AI-powered learning platform built at Tel Aviv University Hackathon.  
+- 🏆 Achieved 3rd place among 100+ teams  
+- 🛠️ Python, React, OpenAI API, Flask
+  <img width="1465" height="915" alt="image" src="https://github.com/user-attachments/assets/46724357-1895-452a-ae7b-48713a12c2a8" />
+
 
 ### 👗 [Where-To-Wear](https://github.com/ShakedSchnarch/Where-To-Wear)
-> Fashion and culture assistant for travelers. Suggests what to wear based on destination & live webcams.
-- 🌍 Based on real-time weather and style analysis
+> Travel fashion assistant suggesting outfits based on destination, weather, and cultural context.  
+- 🌍 Live webcams and weather-based style analysis  
 - 💬 ChatGPT API + Python + React (planned)
----
-
-## 👥 Collaborations
-
-### 🌐 [ayarotbart/wheretowear](https://github.com/ayarotbart/wheretowear)
-> Collaborating on travel-inspired outfit predictor with another developer. UX and data modeling stage.
 
 ---
 
-## 🧭 Navigation
+**Let's Connect!**
 
-This repo is only an overview.  
-For each project you can find:
-- full README & documentation,
-- code examples,
-- issue tracker,
-- and in some, live demo links.
-
-📬 Feel free to reach out via GitHub if you’d like to collaborate or ask questions!
-
----
+I'm always open to new opportunities and collaborations. Feel free to explore my projects or connect with me on LinkedIn!
